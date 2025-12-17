@@ -175,12 +175,10 @@ It aims to **improve the safety of autonomous systems**, not to facilitate malic
 
 Key references include:
 
-* Brown et al., *Adversarial Patch*, 2017
-* Eykholt et al., *Robust Physical Perturbations*, 2018
-* Liu et al., *PS-GAN*, 2019
-* Hingun et al., *REAP Benchmark*, 2023
-
-(Full references are listed in the thesis report.)
+* Brown et al., *Adversarial Patch*, NIPS 2017
+* Eykholt et al., *Robust Physical Perturbations*, CVPR 2018
+* Liu et al., *PS-GAN*, AAAI 2019
+* Hingun et al., *REAP Benchmark*, ICCV 2023
 
 ---
 
